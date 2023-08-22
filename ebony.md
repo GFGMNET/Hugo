@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <!--more-->
 :toc:
-// Set toclevels to be at least your hugo [markup.tableOfContents.endLevel] configuration key
+
 :toclevels: 4
 
 ## Welcome 
